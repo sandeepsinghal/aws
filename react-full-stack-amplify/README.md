@@ -7,3 +7,7 @@ Create a reach app
 1. npx create-react-app amplifyapp
 2. cd amplifyapp
 3. npm start
+
+Change from Tutorial
+
+1. appRoot : react-full-stack-amplify/amplifyapp
